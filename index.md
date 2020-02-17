@@ -7,7 +7,7 @@ Hi! My name is Tadashi Kozuno. I am a PhD student (at [Okinawa Inst. Sci. and Te
 ## Contacts
 *   email: tadashi \[dot\] kozuno \[at\] oist \[dot\] jp
 *   address: 1919-1 Tancha, Onna-son, Kunigami-gun, Okinawa, Japan 904-0495
-*   linkedin: https://www.linkedin.com/in/tadashi-kozuno-32aa23169/
+*   linkedin: [https://www.linkedin.com/in/tadashi-kozuno-32aa23169/](https://www.linkedin.com/in/tadashi-kozuno-32aa23169/)
 
 # News
 
