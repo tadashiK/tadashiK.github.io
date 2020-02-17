@@ -5,9 +5,9 @@ layout: default
 Hi! My name is Tadashi Kozuno. I am a PhD student (at [Okinawa Inst. Sci. and Tech.](https://www.oist.jp/), Japan) interested in machine learning, especially reinforcement learning, convex optimization, and meta-learning.
 
 ## Contacts
-*   E-mail address: tadashi \[dot\] kozuno \[at\] oist \[dot\] jp
-*   Physical address: 1919-1 Tancha, Onna-son, Kunigami-gun, Okinawa, Japan 904-0495
-*   LinkedIn: https://www.linkedin.com/in/tadashi-kozuno-32aa23169/
+*   ![mail](./imgs/mail.png) tadashi \[dot\] kozuno \[at\] oist \[dot\] jp
+*   ![mail](./imgs/pin.png) 1919-1 Tancha, Onna-son, Kunigami-gun, Okinawa, Japan 904-0495
+*   ![mail](./imgs/linkedin.png) https://www.linkedin.com/in/tadashi-kozuno-32aa23169/
 
 # News
 
