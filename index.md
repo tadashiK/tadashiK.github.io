@@ -2,122 +2,21 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Hi! My name is Tadashi Kozuno. I am a PhD student (at Okinawa Inst. Sci. and Tech., Japan) interested in machine learning, especially reinforcement learning, convex optimization, and meta-learning.
 
-[Link to another page](./another-page.html).
+## Contacts
+* E-mail address: tadashi \[dot\] kozuno \[at\] oist \[dot\] jp
+* Physical address: 1919-1 Tancha, Onna-son, Kunigami-gun, Okinawa, Japan 904-0495
+* LinkedIn: https://www.linkedin.com/in/tadashi-kozuno-32aa23169/
 
-There should be whitespace between paragraphs.
+# News
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+* 17/1/2020: I have defended my PhD thesis and passed with minor revisions of the thesis! I will soon be a PhD holder :D
+* 20/12/2020: I have finished the internship at DeepMind Paris. It was really a nice experience. Thank you all!
+* 23/9/2019: I am starting an internship at Google Paris under the supervision of Remi Munos (DeepMind) and Matthieu Geist (Google Brain).
+* 20/9/2019: I am leaving Matsuo Lab to start an internship at Google Paris. I would like to thank Matsuo Lab members, especially Matsuo-sensei and Iwawasa-san!
+* 12/8/2019: I am starting a collaboration with [Matsuo Lab](https://weblab.t.u-tokyo.ac.jp/en/) in Tokyo Univ. Nice to meet you all! (Well... I already know some of you, though.)
 
-# Header 1
+# Publications
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+For publication records, see [this](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=tadashi+kozuno&btnG=). (I am sorry. I have not made my profile in Google Scholar, so all papers in which I am mentioned are shown :( I will make one soon!)
