@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi! My name is Tadashi Kozuno. I am a PhD student (at Okinawa Inst. Sci. and Tech., Japan) interested in machine learning, especially reinforcement learning, convex optimization, and meta-learning.
+Hi! My name is Tadashi Kozuno. I am a PhD student (at [Okinawa Inst. Sci. and Tech.](https://www.oist.jp/), Japan) interested in machine learning, especially reinforcement learning, convex optimization, and meta-learning.
 
 ## Contacts
 *   E-mail address: tadashi \[dot\] kozuno \[at\] oist \[dot\] jp
