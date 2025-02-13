@@ -1,5 +1,5 @@
 ---
-title: "Performance Gap between Online and Offline Algorithms"
+title: "RLHF Basics"
 date: 2025-02-13
 categories:
   - blog
@@ -8,4 +8,5 @@ tags:
   - LLM
 ---
 
-Reinforcement Learning from Human Feedback (RLHF) is intensively studied now.
+The goal of Reinforcement Learning from Human Feedback (RLHF) is aligning LLMs with human expectation. This post explains some of its basics.
+
