@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Tadashi Kozuno"
-  avatar : "/assets/images/bio-photo.JPG"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Loving my cats and ML."
   links:
     - label: "LinkedIn"
