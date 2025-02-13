@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: RL, Convex Opt, and Meta-Learning
+title: Making Baymax
 email: tadashi.kozuno@oist.jp
 locale: "en-US"
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a personal website of Tadashi Kozuno. I talk about some
-  thoughts on RL, convex optimization, and meta-learning.
+  Welcome to Tadashi's ML blog! I am going talk about machine learning,
+  especially, RL, convex optimization, and large language models.
 twitter_username: Tdash_Koz
 github_username: tadashiK
 minimal_mistakes_skin: mint
